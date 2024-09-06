@@ -6,7 +6,7 @@ sites:
   - name: STEAmer Wordpress Website
     url : https://steameracademy.wordpress.com/
   - name : STEAMer Domain
-    url : https://steameracademy.me/
+    url : https://steameracademy.me/ 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
