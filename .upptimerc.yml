@@ -3,7 +3,7 @@ owner: STEAMer-Academy # Your GitHub organization or username, where this reposi
 repo: upptime-monitoring # The name of this repository
 
 sites:
-  - name: STEAmer Wordpress Website
+  - name: STEAMer Wordpress Website
     url : https://steameracademy.wordpress.com/
   - name : STEAMer Domain
     url : https://steameracademy.me/ 
