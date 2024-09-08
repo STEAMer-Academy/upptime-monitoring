@@ -5,7 +5,7 @@ repo: upptime-monitoring # The name of this repository
 sites:
   - name: STEAMer Wordpress Website
     url : https://steameracademy.wordpress.com/
-  - name : STEAMer Domain
+  - name : STEAMer Domain 
     url : https://steameracademy.me/ 
 
 status-website:
