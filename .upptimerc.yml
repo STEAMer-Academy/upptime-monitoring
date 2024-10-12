@@ -7,8 +7,6 @@ sites:
     url : https://steameracademy.wordpress.com/
   - name : STEAMer Domain 
     url : https://www.steameracademy.me/ 
-  - name : Netlify Version of STEAMer Domain
-    url : https://steamer-academyme.netlify.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
