@@ -6,7 +6,7 @@ sites:
   - name: STEAMer Wordpress Website 
     url : https://steameracademy.wordpress.com/
   - name : STEAMer Domain 
-    url : https://steameracademy.me/ 
+    url : https://www.steameracademy.me/ 
   - name : Netlify Version of STEAMer Domain
     url : https://steamer-academyme.netlify.app/
 
